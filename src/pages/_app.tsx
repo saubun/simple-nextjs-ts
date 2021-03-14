@@ -9,5 +9,3 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 		</Layout>
 	);
 }
-
-// I give up on this project, its basically all css and that just isn't that fun
